@@ -1,0 +1,163 @@
+nav {
+  color: white;
+  font-family: cursive;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  opacity: 0.5;
+}
+.header {
+  display: flex;
+  position: relative;
+  margin-left: 800px;
+  color: white;
+}
+.header > div {
+  margin: 10px;
+  margin-top: -40px;
+  font-size: 1.5em;
+}
+.head h2 {
+  position: relative;
+  margin: 10px;
+  margin-left: 20px;
+}
+.first {
+  text-align: center;
+  color: white;
+}
+.first h1 {
+  font-family: cursive;
+  font-size: 3em;
+  position: relative;
+  margin-top: -30px;
+  font-weight: lighter;
+}
+.first h3 {
+  position: relative;
+  margin-top: -30px;
+  font-family: cursive;
+  font-size: 3.5em;
+}
+.first h2 {
+  font-family: cursive;
+  font-size: 2em;
+  position: relative;
+  margin-top: -30px;
+}
+.second {
+  position: relative;
+  margin-top: 200px;
+  width: 100%;
+  padding: 20px;
+  background-color: beige;
+  text-align: center;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+.second h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+.second p {
+  font-size: 1.2em;
+  line-height: 2;
+  margin: 0 auto;
+  width: 65%;
+}
+.project{
+  width: 100%;
+  height: 100px;
+}
+.third{
+  width: 100%;
+  height: auto;
+  background-color: beige;
+}
+.pro{
+  width: 350px;
+  height: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px gray;
+  background-color: rgb(116, 188, 191);
+}
+.pone{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 370px;
+}
+.ptwo{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 770px;
+}
+.pthree{
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 570px;
+}
+.third h2{
+  text-align: center;
+  font-family: cursive;
+}
+.third p{
+  text-align: center;
+  line-height: 1.5;
+}
+.acheive{
+  width: 100%;
+  height: 110px;
+  position: absolute;
+  margin-top: 950px;
+  background-image: url(background.gif);
+}
+.fourth{
+  width: 100%;
+  height: auto;
+  background-color: beige;
+}
+.ach{
+  width: 350px;
+  height: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px gray;
+  background-color: rgb(116, 188, 191);
+}
+.aone{
+  position: absolute;
+  margin-top: 1100px;
+  margin-left: 370px;
+}
+.atwo{
+  position: absolute;
+  margin-top: 1100px;
+  margin-left: 770px;
+}
+.athree{
+  position: absolute;
+  margin-top: 1550px;
+  margin-left: 570px
+}
+.fourth h2{
+  text-align: center;
+  font-family: cursive;
+}
+.fourth p{
+  text-align: center;
+  line-height: 1.5;
+}
+footer{
+  background-image: url(background.gif);
+  width: 100%;
+  height: 200px;
+  color: white;
+  position: absolute;
+  margin-top: 2000px;
+  text-align: center;
+}
+
